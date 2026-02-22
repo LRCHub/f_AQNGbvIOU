@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ラベンダー",
+  "base_artist": "THE BEAT GARDEN",
+  "createdAt": "2026-02-22T15:29:47.301044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラベンダー",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/01_ラベンダー_the_shes_gone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラベンダー",
+      "artist": "4s4ki",
+      "has_synced": false,
+      "path": "select/02_ラベンダー_4s4ki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラベンダー - Lavender",
+      "artist": "the shes gone",
+      "has_synced": true,
+      "path": "select/03_ラベンダー_-_Lavender_the_shes_gone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラベンダー",
+      "artist": "the shes gone",
+      "has_synced": true,
+      "path": "select/04_ラベンダー_the_shes_gone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラベンダー",
+      "artist": "THE BEAT GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_ラベンダー_THE_BEAT_GARDEN.txt"
+    }
+  ]
+}
